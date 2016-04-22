@@ -1,1 +1,16 @@
-#This is the manifest file.
+#Software Manifest
+
+##Project Name:
+
+###Package Name:
+
+####Package Author:
+
+####Package Info:
+
+####Package Date:
+
+###CPE Information:
+
+###Package Status:
+
