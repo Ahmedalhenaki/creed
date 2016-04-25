@@ -34,7 +34,7 @@
 
 **Failed End Conditions:** Manager does not receive correct info about the project in the policy report.
 
-**Trigger:** Manage puts in the request.
+**Trigger:** Manager puts in the request.
 
 <br/>
 
