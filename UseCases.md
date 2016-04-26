@@ -39,18 +39,18 @@
 <br/>
 
 ###Use Case 3
-**Title:** corporate manager requests to creat manifest and recives a respond.
+**Title:** Corporate manager requests to creat manifest and recives a respond.
 
-**Primary Actor:** corporate manager.
+**Primary Actor:** Corporate manager.
 
 **Goal in Context:** Corporate Manager sends a request to the manifest process and have information on the project and its vulnerbilites.
 
-**Stakeholders:** corporate manager.
+**Stakeholders:** Corporate manager.
 
-**Preconditions:** corporate manager does not have full information on the project and manifest file.
+**Preconditions:** Corporate manager does not have full information on the project and manifest file.
 
-**Main Success Scenario:** corporate manager recives project inforomation and manifest file and information from risk data base.
+**Main Success Scenario:** Corporate manager recives project inforomation and manifest file and information from risk data base.
 
-**Failed End Conditions:** corporate manager does not recive information and manifest file.
+**Failed End Conditions:** Corporate manager does not recive information and manifest file.
 
 **Trigger:** The manager make the request.
