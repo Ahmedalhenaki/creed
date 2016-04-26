@@ -53,4 +53,4 @@
 
 **Failed End Conditions:** Corporate manager does not recive information and manifest file.
 
-**Trigger:** The manager make the request.
+**Trigger:**  Manager puts in the request.
